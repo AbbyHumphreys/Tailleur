@@ -1,6 +1,15 @@
-*, .navbar {
+body,
+html, .navbar {
     margin: 0;
     padding: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
 }
 
 .bg-color-1 {
@@ -14,3 +23,4 @@
 .sale-text {
     margin-block-end: 0;
 }
+
